@@ -1,5 +1,5 @@
 local response = request({
-    Url = "https://howyrsimpleware.stremlingremlin.workers.dev",
+    Url = "https://howyrsimpleware.stremlingremlin.workers.dev/",
     Method = "GET",
     Headers = {
         ["beta-v1-gng"] = "1"
